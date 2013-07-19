@@ -3,6 +3,6 @@
 
 int main(void)
 {
-    hello();
+    hello(); /* you forgot to add Julian Rockstarcoder code! */
     return 0;
 }
