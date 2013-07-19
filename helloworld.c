@@ -4,5 +4,5 @@
 int main(void)
 {
     hello(); /* you forgot to add Julian Rockstarcoder code! */
-    return 0;
+    return 0; /* exiting error free */
 }
